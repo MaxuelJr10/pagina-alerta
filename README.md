@@ -30,9 +30,14 @@
 </head>
 <body>
     <div class="container">
-        <h1>Parabéns!</h1>
-        <p>Você ganhou cinco dias de estadia com tudo pago no Hotel Ulife!</p>
-        <p>Clique no botão abaixo e realize sua reserva!</p>
+        <h1>MENSAGEM DE ALERTA!</h1>
+        <p>**Atenção: Possível Tentativa de Phishing!**
+
+Cuidado! Você recebeu uma mensagem que pode ser uma tentativa de phishing. Não clique em links suspeitos e não forneça informações pessoais, como senhas, números de cartão de crédito ou dados bancários. Se você não reconhece o remetente ou se o conteúdo parece estranho ou urgente, apague a mensagem imediatamente.  
+
+Sempre verifique a autenticidade de qualquer comunicação antes de tomar qualquer ação.
+
+Proteja suas informações e sua segurança online!!</p>
     </div>
 </body>
 </html>
