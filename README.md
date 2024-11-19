@@ -31,8 +31,8 @@
 <body>
     <div class="container">
         <h1>Parabéns!</h1>
-        <p>Você foi o grande vencedor da competição!</p>
-        <p>Continue se esforçando e alcance ainda mais conquistas!</p>
+        <p>Você ganhou cinco dias de estadia com tudo pago no Hotel Ulife!</p>
+        <p>Clique no botão abaixo e realize sua reserva!</p>
     </div>
 </body>
 </html>
