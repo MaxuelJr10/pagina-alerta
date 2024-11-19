@@ -31,7 +31,7 @@
 <body>
     <div class="container">
         <h1>MENSAGEM DE ALERTA!</h1>
-        <p>**Atenção: Possível Tentativa de Phishing!**
+        <p>Atenção: Possível Tentativa de Phishing!
 
 Cuidado! Você recebeu uma mensagem que pode ser uma tentativa de phishing. Não clique em links suspeitos e não forneça informações pessoais, como senhas, números de cartão de crédito ou dados bancários. Se você não reconhece o remetente ou se o conteúdo parece estranho ou urgente, apague a mensagem imediatamente.  
 
