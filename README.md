@@ -65,7 +65,7 @@
     <h1>Para minha rabudinha</h1>
     <div class="heart">❤️</div>
     <p class="highlight">Letícia, meu amor</p>
-    <p class="highlight">OLOOOOOOOOOOOOOOOOOOOOOKO.</p>
+    <p class="highlight">OLOOOOOOOOOOOOOOOOOKO.</p>
     <p class="highlight">Aceita viajar comigo?</p>
     <p class="highlight">Com amor e carinho seu dono
     <pclass="highlight" class="highlight"><strong>Maxuel.</strong></p>
